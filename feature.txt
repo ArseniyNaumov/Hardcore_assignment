@@ -1,0 +1,2 @@
+This is  a couple of lines just to excercise a creation of a feature
+Now O make a first note for the first required commit
